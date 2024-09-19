@@ -9,3 +9,9 @@ It delivers automated scripts efficiently, allowing teams to focus on complex ta
 
 This solution not only accelerates testing but also improves coverage, setting a new standard for quality assurance in the software development lifecycle.
 
+
+## Quick Demo:
+[![Watch the video](https://img.youtube.com/vi/TaEIyqR7qSo/maxresdefault.jpg)](https://youtu.be/TaEIyqR7qSo)
+
+
+
